@@ -1,0 +1,11 @@
+.navbar {
+    background-color: rebeccapurple;
+    display: flex;
+    padding: 10px;
+}
+
+.navbar__icon {
+    font-size: 2em;
+    color: white;
+    cursor: pointer;
+}
